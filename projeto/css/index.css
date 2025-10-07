@@ -1,3 +1,7 @@
 body{
-    background-color: #b97a56
+    background-color: #b97a56;
+}
+
+.nav {
+    padding: 400px;
 }
